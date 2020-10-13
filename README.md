@@ -1,8 +1,17 @@
 # CodeMacabre
 
-Hello! I'm Myles Lewando (pronounced [/ˌlʌˈvændəʊ/](https://itinerarium.github.io/phoneme-synthesis/?w=%2Fl%CA%8C%20v%C3%A6n%20d%C9%99%CA%8A%2F)), a web developer and (aspiring) data artist based in the UK.
+Hello! I'm Myles Lewando (pronounced [/ˌlʌˈvændəʊ/](https://itinerarium.github.io/phoneme-synthesis/?w=%2Fl%CA%8C%20v%C3%A6n%20d%C9%99%CA%8A%2F)), a web developer and designer with a touch of the macabre.
 
-My work tends towards web and data visualisation (primarily geospatial) projects, often ecological, humanitarian, space-based, or the macabre. I am an ethical open-source and open-data advocate, and I highly value accessibility, inclusiveness, privacy and am a believer in self-directed learning.
+```
+🖤 Ethical & inclusive tech
+💜 Accessibility activist
+💙 People before code
+👤 He / they
+```
+
+My motto is "People before code".
+
+I am an accessibility activist who fights for ethical and inclusive tech. I am an open-source and open-data advocate and you will often find me working on geospatial and data visualisation projects (usually ecological, humanitarian, or something macabre).
 
 Please use he/they pronouns and always be kind.
 
